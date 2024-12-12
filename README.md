@@ -1,0 +1,1 @@
+SIRA SIZDE 3: İki Button ve iki EditTextten oluşan bir uygulama. Birinci düğmeye tıklandığında “Merhaba Ad”, ikinci düğmeye tıklandığında “İyi günler Ad Soyad” şeklinde mesaj veren kodları metot aşırı yükleme ile oluşturma.
